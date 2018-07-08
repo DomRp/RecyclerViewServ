@@ -4,11 +4,10 @@ This project will be used as a guide for the lesson of "Activities and Intents" 
 
 ## Requirements
 
-+ Create a Login Screen.
 + Create a RecyclerView.
-+ Simulate to Search the user profile data by UserName.
++ Application that consumes API publishes.
 + Show the dummy user profile data on the Profile Activity.
-+ Allow to share this dummy data by an implicit intent.
++ Allow to show this dummy data by an implicit intent.
 
 # Screen Examples:
 
