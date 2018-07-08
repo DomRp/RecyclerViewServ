@@ -4,7 +4,8 @@ This project will be used as a guide for the lesson of "Activities and Intents" 
 
 ## Requirements
 
-+ Create a RecyclerView.
++ API 26 (8.0).
++ Create a RecyclerView - ListView.
 + Application that consumes API publishes.
 + Show the dummy user profile data on the Profile Activity.
 + Allow to show this dummy data by an implicit intent.

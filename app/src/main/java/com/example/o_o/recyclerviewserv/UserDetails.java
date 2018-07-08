@@ -8,6 +8,7 @@ import android.widget.TextView;
 import com.example.o_o.recyclerviewserv.model.User;
 
 public class UserDetails extends AppCompatActivity {
+
     private TextView tvName;
     private EditText etPhone;
     private EditText etEmail;
@@ -30,6 +31,7 @@ public class UserDetails extends AppCompatActivity {
             user = getIntent().getParcelableExtra(USER_DETAILS);
 
             if (user != null){
+
                 tvName.setText(user.getName());
                 etPhone.setText(user.getPhone());
                 etEmail.setText(user.getEmail());
